@@ -24,3 +24,5 @@ m = pow(ct, d, n)
 plaintext = long_to_bytes(m)
 
 print(f"Decrypted message: {plaintext.decode()}")
+
+# crypto{700_m4ny_5m4ll_f4c70r5}
